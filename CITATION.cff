@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "NA"
+authors:
+  - family-names: Aggarwal
+    given-names: Ansh
+title: "FFT and Wavelets"
+version: 1.0.0
+date-released: 2024-04-23
